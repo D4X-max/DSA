@@ -1,0 +1,4 @@
+// how to convert a recursion to dp
+1. Declare an array of size [n+1]
+2. Before returning the array store it and return 
+3. whenever calling a recursion check if it has been previously computed or not.
